@@ -1,1 +1,16 @@
 # IC-Lab
+- Lab1_Chinese-Course
+- Lab2_12-QUEE
+- Lab3_Subway-Surfers
+- Lab4_Simple-Recurrent-Neural-Network
+- Lab5_Matrix-Multiplication-to-Find-Trace
+- Lab6_Elliptic-Curve-Group-Operation
+- Lab7_Clock-Domain-Crossing(CDC)
+- Lab8_Siamese-Neural-Network
+- Lab9_Online-Shopping-Platform-Simulation
+- Lab10_OS(From Lab09)-Coverage
+- Lab11_Matrix-Multiplication-with-Systolic-Array
+- Lab12_Train-Tour-APRII
+- Midterm-Project_Gray-level-Co-occurrence-Matrix(GLCM)
+- Final-Project_Customized-ISA-Processor
+- OT_Area-and-Angles-of-a-Triangle
